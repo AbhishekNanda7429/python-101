@@ -7,29 +7,29 @@ Here are the codes practice for the python.
 The concepts practiced here are
 </br>
 <br>
-variable & data type
+1.variable & data type
 </br>
 <br>
-operators
+2.operators
 </br>
 <br>
-input & output
+3.input & output
 </br>
 <br>
-branches
+4.branches
 </br>
 <br>
-loops
+5.loops
 </br>
 <br>
-Control Statement
+6.Control Statement
 </br>
 <br>
-Strings
+7.Strings
 </br>
 <br>
-lists
+8.lists
 </br>
 <br>
-Tuple
+9.Tuple
 </br>
