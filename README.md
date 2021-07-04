@@ -34,8 +34,8 @@ The concepts practiced here are
 9.Tuple
 </br>
 <br>
-Dictionary
+10.Dictionary
 </br>
 <br>
-Sets
+11.Sets
 </br>
