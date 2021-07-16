@@ -39,3 +39,6 @@ The concepts practiced here are
 <br>
 11.Sets
 </br>
+<br>
+12.Functions
+</br>
